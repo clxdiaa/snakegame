@@ -1,0 +1,9 @@
+#include "resources.h"
+
+IDB_BACKGROUND BITMAP "images\\sfondo.bmp"
+IDB_FOOD BITMAP "images/food.bmp"
+STRINGTABLE
+BEGIN
+    IDS_GAME_OVER      "Game Over!"
+    IDS_START_GAME     "Start Game"
+END

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1735324731 source:c:\users\roberto\desktop\progetto\scoremanager\scoremanager\scoremanager.cpp
+	"ScoreManager.h"
+	<fstream>
+	<iostream>
+
+1735326651 c:\users\roberto\desktop\progetto\scoremanager\scoremanager\scoremanager.h
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1735299001 source:c:\users\roberto\desktop\università\snakegame\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<cstdio>
+
+1735583024 source:c:\users\roberto\desktop\progetto\snakegame\main.cpp
+	"ScoreManager.h"
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<cstdio>
+	"resources.h"
+	<tchar.h>
+	<fstream>
+
+1735324720 c:\users\roberto\desktop\progetto\snakegame\scoremanager.h
+	<string>
+
+1735498166 source:c:\users\roberto\desktop\progetto\snakegame\resources.rc
+	"resources.h"
+
+1735646557 c:\users\roberto\desktop\progetto\snakegame\resources.h
+
